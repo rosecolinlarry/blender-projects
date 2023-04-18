@@ -8,7 +8,7 @@ Some bills have subdivision, twist, bend, and displace modifiers applied to give
 ## Scenes
 
 ### Scene 1
-Cloud of $1 in a rigid body world. The bills are grumpled but have the modifiers applied already. Originally was a particle system.
+Swarm of $1 in a rigid body world. The bills are grumpled but have the modifiers applied already. Originally was a particle system.
 
 ### Scene 2:
 
